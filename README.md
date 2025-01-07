@@ -2,7 +2,7 @@
 ## Backend/Full-Stack Developer
 
 📧 oduntanade2721@gmail.com | 📱 +234 8134667940  
-📍 Ogijo, Ogun State, Nigeria  
+📍 Nigeria  
 [LinkedIn](https://www.linkedin.com/in/oduntanade) | [GitHub](https://github.com/AdemolaSam)
 
 ## Summary
