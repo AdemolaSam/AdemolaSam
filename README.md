@@ -13,11 +13,13 @@ Backend/Full-Stack Developer with expertise in developing secure, scalable appli
   - JavaScript (Advanced)
   - Python (Intermediate)
   - TypeScript (Intermediate)
+  - Rust (Intermediate)
   - HTML5/CSS3 (Proficient)
 - **Backend**: Node.js, Express.js, NestJS, Django
 - **Frontend**: React.js, Next.js, Tailwind CSS
+- **Solana Blockchain Development**: Anchor, Smart Contract with Rust 
 - **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools**: Git, Docker, Postman, JWT Authentication
+- **Tools**: Git, Docker, Postman, JWT Authentication, Swagger
 
 ## Professional Experience
 
