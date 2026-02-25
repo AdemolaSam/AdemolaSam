@@ -52,7 +52,6 @@ Backend/Full-Stack Developer with expertise in developing secure, scalable appli
 ## Education
 **Bachelor of Education (Honours)** | University of Calabar, 2022
 - Second Class Honours (Upper Division)
-- Relevant coursework: Computer Science, ICT in Education
 
 ## Certifications
 - Backend Engineering - DevCareer Africa (2024)
