@@ -86,6 +86,7 @@ University of Calabar | 2022
 
 ## Certifications
 - KCNA, Linux Foundation — In Progress (2026)
+- Kaggle 5-Day Generative AI Intensive (Google Developers) (2025)
 - Turbin3 Builders Cohort, Q1 — Solana (2026)
 - Ackee School of Solana Program (2025)
 - Backend Engineering — DevCareer Africa (2024)
