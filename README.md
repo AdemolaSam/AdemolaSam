@@ -22,7 +22,7 @@ Full-Stack Engineer specializing in Distributed Systems and Blockchain. Proven t
 
 ## Professional Experience
 
-### Full-Stack Developer | Krikia (Real Estate Platform)
+### Full-Stack Developer | [Krikia](https://krikia.com) (Real Estate Platform)
 *May 2024 – October 2025*
 - Built backend APIs for property bookings, payments, and transaction workflows using NestJS
 - Integrated Flutterwave and Monnify payment gateways with wallet system, invoice
